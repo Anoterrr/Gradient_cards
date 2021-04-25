@@ -1,2 +1,5 @@
 # Gradient_cards
- A test of how can I design cards
+ 
+ ![Screenshot](gradient_cards.png)
+ A kind of test to know what can I do with some css
+
